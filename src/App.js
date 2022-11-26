@@ -6,7 +6,7 @@ import { Navbar, Sidebar } from './components'
 import { Ecommerce, Orders, Calendar, Employees, Stacked, Pyramid, Customers, Kanban, Area, Bar, Pie, Line, Financial,ColorPicker, ColorMapping, Editor } from './pages'
 import './index.css';
 const App = () => {
-  const activeMenu = false;
+  const activeMenu = true;
   return (
     <div>
       <BrowserRouter>
