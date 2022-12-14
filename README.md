@@ -1,7 +1,7 @@
 # **React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More**
 
 
-![React Admin Dashboard](src\data\dashboard.png)
+![React Admin Dashboard](src/data/dashboard.png)
 
 
 ### Table of Contents
